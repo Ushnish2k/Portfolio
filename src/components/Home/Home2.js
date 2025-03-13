@@ -27,7 +27,7 @@ function Home2() {
               <br />
               <b className="purple">Programming:</b> Proficient in
               <i>
-                <b className="purple"> C, Python, and Java.</b>
+                <b className="purple"> C and Python.</b>
               </i>
               <br />
               <br />
