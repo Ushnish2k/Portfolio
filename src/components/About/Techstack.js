@@ -10,7 +10,7 @@ import {
 import { SiAdobe } from "react-icons/si";
 import { IoLogoFigma } from "react-icons/io5";
 import { DiPhotoshop } from "react-icons/di";
-import { TbBrandGolang, TbSql } from "react-icons/tb";
+import { TbSql } from "react-icons/tb";
 
 function Techstack() {
   return (
