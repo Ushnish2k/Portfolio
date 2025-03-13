@@ -2,10 +2,7 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
-  SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
 } from "react-icons/si";
 import { SiAdobelightroom } from "react-icons/si";
 import { FaFigma, FaWindows } from "react-icons/fa";

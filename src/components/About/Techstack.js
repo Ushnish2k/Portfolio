@@ -2,9 +2,6 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
@@ -13,13 +10,6 @@ import {
 import { SiAdobe } from "react-icons/si";
 import { IoLogoFigma } from "react-icons/io5";
 import { DiPhotoshop } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
 import { TbBrandGolang, TbSql } from "react-icons/tb";
 
 function Techstack() {
